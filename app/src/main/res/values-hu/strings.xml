@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haver Hívó</string>
+    <string name="problem_label">Mi kéne ha vóna?</string>
+    <string name="notified_label">Kit fárasszunk?</string>
+    <string name="need_food_checkbox">Kaját akarok!</string>
+    <string name="need_drink_checkbox">Gyümölcslevet akarok!</string>
+    <string name="wanna_talk_checkbox">Dumálni akarok!</string>
+    <string name="wanna_play_checkbox">Gépezni akarok!</string>
+    <string name="wanna_go_crazy_checkbox">Hülyülni akarok!</string>
+    <string name="notify_button">Értesítem a köcsögöket</string>
+</resources>
