@@ -8,4 +8,9 @@
     <string name="wanna_play_checkbox">I wanna play!</string>
     <string name="wanna_go_crazy_checkbox">I wanna go crazy with you!</string>
     <string name="notify_button">Notify Dudes</string>
+    <string name="message_greeting">Hi!</string>
+    <string name="message_lead">So the thing is:</string>
+    <string name="good_bye">So let\'s go ahead!</string>
+    <string name="signature" translatable="false">Tüpi</string>
+    <string name="fucking_well">I\'m fucking well!!!</string>
 </resources>
